@@ -40,7 +40,9 @@ tpz.msg.channel =
     LINKSHELL3     = 30, -- Yes really it looks like a 3rd LS may have been planned at some point.
     NS_LINKSHELL3  = 31, -- (assumed as it follows pattern and color)
     UNKNOWN_32     = 32, -- Looks the same as 31
-    UNITY          = 33
+    UNITY          = 33,
+    JP_ASSIST      = 34,
+    NA_ASSIST      = 35,
 }
 
 -- used by PrintToArea
@@ -333,4 +335,5 @@ tpz.msg.basic =
     ROE_OBTAINED_KEY_ITEM   = 706,  -- You have obtained <key item> as a special reward!
     ROE_FIRST_TIME_SPARKS   = 707,  -- As a first-time bonus, you receive <amount> sparks of eminence for a total of <amount>!
     ROE_BONUS_ITEM_PLURAL   = 709,  -- As a special bonus for your valiant efforts, you have been awarded the following: <itemid> x<amount>!
+    ROE_TIMED_CLEAR         = 710,  -- You are cleared to fulfill this objective once again.
 }
