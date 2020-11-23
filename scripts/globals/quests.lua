@@ -234,6 +234,8 @@ tpz.quest.id =
         FULLY_MENTAL_ALCHEMIST          = 88,
         SYNERGUSTIC_PURSUITS            = 89,
         THE_WONDROUS_WHATCHAMACALLIT    = 90,
+        SYNERGISTIC_SUPPORT             = 91,
+        TRUST_BASTOK                    = 92,
     },
 
     -----------------------------------
@@ -656,9 +658,9 @@ tpz.quest.id =
         TOTOROONS_TREASURE_HUNT         = 18,
         WHAT_FRIENDS_ARE_FOR            = 19,
         ROCK_BOTTOM                     = 20,
-        BEGINNINGS                      = 21,
-        OMENS                           = 22,
-        TRANSFORMATIONS                 = 23,
+        BEGINNINGS                      = 21, -- + --
+        OMENS                           = 22, -- + --
+        TRANSFORMATIONS                 = 23, -- + --
         EQUIPPED_FOR_ALL_OCCASIONS      = 24, -- + --
         NAVIGATING_THE_UNFRIENDLY_SEAS  = 25, -- + --
         AGAINST_ALL_ODDS                = 26,
